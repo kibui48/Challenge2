@@ -1,0 +1,4 @@
+#Wed Aug 07 12:37:38 EAT 2019
+base.0=C\:\\Users\\KIMATA\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
